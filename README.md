@@ -1,19 +1,16 @@
-[![N|Solid](https://cdn.discordapp.com/attachments/923842147222962186/1237645009218441236/standard.gif?ex=663c663c&is=663b14bc&hm=de71ce7741913eab5732e49f3fff14dbe2d0167457fab48eacaef0973256eb8e&)](https://nodesource.com/products/nsolid)
-## Für was ist dieses Skript?
--Dieses Skript überprüft lediglich ob Jemand Tod ist und schaltet dann ganz einfach via PMA um damit man nicht mehr reden kann.
+## What is this script for?
+- This script simply checks if someone is dead and then toggles PMA to prevent talking.
 
-- Ihr könnt dies als Ressource runterladen und einfach starten
-- Alternativ könnt Ihr den Inhalt der "client.lua" in ein Skript eurer wahl einbauen
+- You can download this as a resource and simply start it
+- Alternatively, you can integrate the contents of "client.lua" into a script of your choice
+
 ##
 ##
-| Ressource | Quellen |
+| Resource | Sources |
 | ------ | ------ |
 | PMA-VOICE | https://github.com/AvarianKnight/pma-voice |
 | DV-NOTALK | https://github.com/Diosk2k/dv_notalk |
 ##
-## Development
-Ihr braucht hilfe bei der Installation?
 
-Auf meinen Discord helfe ich euch gern!
-https://discord.gg/8qErUm9WkM
-
+## Found a problem?!
+For any issues or questions, please open an [issue]([https://github.com/Diosk2k/dv_appfilter/issues](https://github.com/Diosk2k/dv_notalk/issues)) on GitHub.
